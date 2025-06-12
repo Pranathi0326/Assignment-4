@@ -14,4 +14,3 @@ else if(u!=user || p!=pass){
 }
 
 }
-function checkuser()
